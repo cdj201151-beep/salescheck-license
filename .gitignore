@@ -1,0 +1,10 @@
+*.pem
+*.key
+private_key*
+public_key*
+.salescheck_license
+*.dmg
+dist/
+build/
+__pycache__/
+.DS_Store
